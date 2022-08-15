@@ -256,6 +256,10 @@ footer .bottom p {
     display: none;
   }
 
+  header .input button.green{
+    margin-left: -150px;
+  }
+
   nav .menu-btn {
     display: flex;
   }
